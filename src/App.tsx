@@ -185,7 +185,7 @@ const Services = () => (
           icon={ShoppingBag}
           title="Rações & Acessórios"
           description="As melhores marcas de ração, brinquedos educativos e acessórios exclusivos para o conforto do seu animal."
-          image="https://loremflickr.com/400/300/pet,shop"
+          image="https://images.unsplash.com/photo-1548175591-628f80456fb4?auto=format&fit=crop&q=80&w=400&h=300"
         />
         <ServiceCard 
           icon={Stethoscope}
